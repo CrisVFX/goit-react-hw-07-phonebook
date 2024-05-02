@@ -1,5 +1,5 @@
 import { SyncLoader } from 'react-spinners';
 
 export const Loader = () => {
-  return <SyncLoader color="#36d7b7" />;
+  return <SyncLoader color="#C40C0C" />;
 };
